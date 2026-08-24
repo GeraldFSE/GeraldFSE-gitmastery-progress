@@ -401,5 +401,14 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787590029.341072,
+    "completed_at": 1787590032.727938,
+    "comments": [
+      "The local VWX branch does not track origin/VWX."
+    ],
+    "status": "Incomplete"
   }
 ]
