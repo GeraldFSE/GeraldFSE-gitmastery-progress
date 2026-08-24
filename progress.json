@@ -311,5 +311,14 @@
       "You still have uncommitted changes. Commit them first on the appropriate branch first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787574369.48893,
+    "completed_at": 1787574370.876491,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
